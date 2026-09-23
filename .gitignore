@@ -1,0 +1,22 @@
+# Dados (grandes; baixados do Zenodo — ver README)
+data/
+
+# Modelos e embeddings gerados
+*.pt
+*.pth
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
