@@ -20,9 +20,9 @@ O padrão de rugas do focinho bovino é **único e estável ao longo da vida** �
 impressão digital. Este projeto usa esse padrão para **identificar cada animal individualmente a
 partir de uma foto**, sem brinco (que cai, é trocado e pode ser falsificado).
 
-**Por que importa:** rastreabilidade individual passa a ser **obrigatória no Brasil a partir de 2027**
-(PNIB — Plano Nacional de Identificação Individual de Bovinos), e o mesmo modelo sustenta operações
-de **gado como garantia de crédito**, onde o credor precisa provar que o animal existe e é aquele mesmo.
+**Por que importa:** a identificação individual do rebanho é uma exigência regulatória em avanço no
+Brasil e uma base para operações de **gado como garantia de crédito**, onde o credor precisa provar
+que o animal existe e é aquele mesmo.
 
 ## Resultados
 
